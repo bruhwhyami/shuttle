@@ -17,7 +17,7 @@
   "license": " GPL-3.0-or-later",
   "homepage": "https://shuttleproxy.com",
   "dependencies": {
-    "@tomphttp/bare-server-node": "^2.0.1",
+    "@tomphttp/bare-server-node": "^2.0.2",
     "ejs": "^3.1.9",
     "express": "^4.18.1"
   },
